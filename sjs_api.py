@@ -11,7 +11,7 @@ import json
 
 class SjsApi(object):
     """ 处理系统与神箭手API之间的参数传递
-        拓展sjs_api
+        拓展sjs_service
     """
     
     def __init__(self,user_key=None,user_mi_key=None,spider_id=0):
